@@ -8,7 +8,7 @@
         android:paddingBottom="@dimen/spacing"
         android:paddingLeft="@dimen/spacing"
         android:paddingRight="@dimen/spacing"
-        android:paddingTop="@dimen/spacing_large"
+        android:paddingTop="@dimen/spacing"
         android:textColor="@color/theme500"
         android:textSize="@dimen/text_large"
         android:textStyle="bold" />
